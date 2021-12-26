@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "1e583822-5c17-47e0-8b9d-3dd239b56089": {
+      "ProjectGuid": "1e583822-5c17-47e0-8b9d-3dd239b56089",
+      "DisplayName": "Taxi",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
